@@ -1,21 +1,20 @@
 # Brick-Smasher
 This Repository contains code file for a Brick Breaker game coded in Assembly Language .asm x86. The games.asm file can be executed using DosBox Software.
 
-<h3>DosBox Configuration and Game Installation</h3>
+<h2>DosBox Configuration and Game Installation</h2>
 In order to install and configure DOSBox in system follow these Steps:
 
-<ol>
-  <item>Download the DosBox and masm615 folder from the repository</item>
-  <item>Install setup file from DosBox folder and paste masm615 folder in your C drive directory</item>
-  <item>Remember the masm615 folder should be pasted directly in C drive folder(same directory as of program files and Windows folder</item>
-  <item>Open Dosbox and type mount c c:\masm615\bin\ and press Enter</item>
-  <item>Now type c: and press Enter</item>
-  <item>Now download the game.asm file and Paste it in c:\masm615\bin\ folder</item>
-  <item>Type "ml game.asm" in DosBox and press Enter</item>
-  <item>Type "game.exe"  and press Enter</item>
-  <item>Enjoy your game</item>
-  <item></item>
-</ol>
+<ul>
+  <li>Download the DosBox and masm615 folder from the repository</li>
+  <li>Install setup file from DosBox folder and paste masm615 folder in your C drive directory</li>
+  <li>Remember the masm615 folder should be pasted directly in C drive folder(same directory as of program files and Windows folder</li>
+  <li>Open Dosbox and type mount c c:\masm615\bin\ and press Enter</li>
+  <li>Now type c: and press Enter</li>
+  <li>Now download the game.asm file and Paste it in c:\masm615\bin\ folder</li>
+  <li>Type "ml game.asm" in DosBox and press Enter</li>
+  <li>Type "game.exe"  and press Enter</li>
+  <li>Enjoy your game</li>
+</ul>
 
 
 The Game was created as university project and contains multiple functionalities such as ball/paddle movement, score/life count, brick ball collison, file handling,
