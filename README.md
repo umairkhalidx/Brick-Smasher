@@ -1,9 +1,9 @@
 # Brick-Smasher
 This Repository contains code file for a Brick Breaker game coded in Assembly Language .asm x86. The games.asm file can be executed using DosBox Software.
 
-<h2>DosBox Configuration and Game Installation</h2>
-In order to install and configure DOSBox in system follow these Steps:
+<h2>DosBox Configuration and Game Installation:</h2>
 
+In order to install and configure DOSBox in system follow these Steps:
 <ul>
   <li>Download the DosBox and masm615 folder from the repository</li>
   <li>Install setup file from DosBox folder and paste masm615 folder in your C drive directory</li>
@@ -16,14 +16,10 @@ In order to install and configure DOSBox in system follow these Steps:
   <li>Enjoy your game</li>
 </ul>
 
+<h2>Game Description</h2>
+The Game was created as university project and contains multiple functionalities such as ball/paddle movement, score/life count, brick ball collison, file handling, graphics creation, menu and page switching etc. Different functions along with comments are present in the code to easily understand and impliment additional changes. Moreover functions from this game caan be further used in for your other project in Assembly Language.
 
-The Game was created as university project and contains multiple functionalities such as ball/paddle movement, score/life count, brick ball collison, file handling,
-graphics creation, menu and page switching etc. Different functions along with comments are present in the code to easily understand and impliment additional changes.
-Moreover functions from this game caan be further used in for your other project in Assembly Language.
-
-In terms of a brief game introduction; this game is basically a single player game that has 3 levels each level difficult than the other; increased speed and break count. While playing the game
-the palyer gets 5 lives and on missing the ball from the paddle 1 life is deducted; in case of 0 lives the game end and your high score is noted in the
-Leadership Board
+In terms of a brief game introduction; this game is basically a single player game that has 3 levels each level difficult than the other; increased speed and break count. While playing the game the palyer gets 5 lives and on missing the ball from the paddle 1 life is deducted; in case of 0 lives the game end and your high score is noted in the Leadership Board
 
 Feel free to add your aditional features and commit changes
 I hope this helps you in your codding journey :)
